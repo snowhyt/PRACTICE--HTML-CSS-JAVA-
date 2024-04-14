@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+
+    <title id="title">Tribute Page</title>
+</head>
+<main id="main">
+<figure id="img-div">
+    <img id="image" src="https://media.prospectmagazine.co.uk/prod/images/gm_preview/22a8e53890bd-hawking-2.jpg" alt="">
+    <p id="img-caption1">Stephen Hawkins</p>
+  </figure>
+  <div id="tribute-info">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis .<a id="tribute-link" href="" target="_blank"></a>
+  </div>
+
+
+<div id="img-div">
+  <div id="img-caption">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</div>
+</div>
+
+
+
+</main>
+
+<body>
+  
+    
+</body>
+</html>

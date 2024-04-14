@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Document</title>
+</head>
+<main id="main-doc">
+  <nav id="navbar">
+    <header> navbar </header>
+<div class="nav">
+    <a href="#Topic_1" class="nav-link" >Topic_1</a>
+    <a href="#Topic_2" class="nav-link" >Topic_2</a>
+    <a href="#Topic_3" class="nav-link" >Topic_3</a>
+    <a href="#Topic_4" class="nav-link" >Topic_4</a>
+    <a href="#Topic_5" class="nav-link" >Topic_5</a>
+   </div>
+  </nav>
+  
+  <section class="main-section" id="Topic_1"><header>Topic_1</header>
+    <p></p>
+    <p></p>
+    <code></code>
+    <li></li>
+
+  </section>
+  <section class="main-section" id="Topic_2"><header>Topic_2</header>
+    <p></p>
+    <p></p>
+    <code></code>
+    <li></li>
+
+  </section>
+  <section class="main-section" id="Topic_3"><header>Topic_3</header>
+    <p></p>
+    <p></p>
+    <code></code>
+    <li></li>
+
+  </section>
+  <section class="main-section" id="Topic_4"><header>Topic_4</header>
+    <p></p>
+    <p></p>
+    <code></code>
+    <li></li>
+
+  </section>
+  <section class="main-section" id="Topic_5"><header>Topic_5</header>
+    <p></p>
+    <p></p>
+    <code></code>
+    <li></li>
+
+  </section>
+
+  
+</main>
+<body>
+  
+</body>
+</html>
